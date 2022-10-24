@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejercicio_de_tabb</string>
+    <string name="tab_text_1">pestaña 1</string>
+    <string name="tab_text_2">pestaña 2</string>
+    <string name="tab_text_3">pestaña 3</string>
+
+
+</resources>
